@@ -9,8 +9,8 @@ First, collect required information:
   - Short description of the business
   - The location where the business was founded
   - The entrepreneur(s) with their roles and LinkedIn profiles
-Then you have two options how to contribute.
 
+Then you have two options how to contribute.
 
 ### Using Web-interface
 
@@ -24,4 +24,5 @@ Then you have two options how to contribute.
 
 4. Submit a pull request
 5. See [Editing files in another user's repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/), [Creating Pull Requests](https://help.github.com/articles/creating-a-pull-request/), [Using Pull Requests](https://help.github.com/articles/using-pull-requests/) for help on sending your patch.
+
 Happy contributing!
